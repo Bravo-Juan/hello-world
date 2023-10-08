@@ -1,2 +1,5 @@
 # hello-world
-This repository will be used to store ideas/resources and collaborate with others.
+# Juan Bravo
+# 10/8/23
+
+-I am a Junior at National Louis University, pursuing a career in software development.
